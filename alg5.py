@@ -1,4 +1,4 @@
-
+#Exercício 7
 arr = [int(input('Digite um número: ')), int(input('Digite outro número: ')), int(input('Digite outro número: '))]
         
 

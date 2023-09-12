@@ -1,3 +1,4 @@
+#Exercício 8 e 9
 import math
 arr = [float(input('Digite o valor do lado a do triângulo: ')), float(input('Digite o valor do lado b do triângulo: ')), float(input('Digite o valor do lado c do triângulo: '))]
 

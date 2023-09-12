@@ -1,3 +1,4 @@
+#Exercício 4, 5 e 6
 nivelAlerta = int(input('Qual o nível do alerta? '))
 if nivelAlerta > 10:
     print('Insira um número entre 0 e 10.')
